@@ -1,4 +1,5 @@
 from django.http import HttpResponse
 
-def get_v1(request):
+
+def get_livez(request):
     return HttpResponse(True)
