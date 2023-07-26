@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.11"
 django = "^4.2.3"
 pre-commit = "^3.3.3"
+ruff = "^0.0.280"
 
 
 [build-system]
